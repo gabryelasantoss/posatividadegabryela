@@ -1,0 +1,19 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Banco de dados local
+app.db
+instance/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ferramentas e testes
+.pytest_cache/
+.mypy_cache/
+
+# Editor/IDE
+.vscode/
+.idea/
